@@ -1,0 +1,64 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<students>
+	<student>
+		<usn>
+		4VV16CS003
+		</usn>
+		<name>
+		Abhishek holla
+		</name>
+		<college>
+		Vidyavardhaka College of Engineering
+		</college>
+		<branch>
+		Computer Science
+		</branch>
+		<year>
+		2016
+		</year>
+		<email>
+		abhishek.holla@xyz.com
+		</email>
+	</student>
+	<student>
+		<usn>
+		4VV16CS004
+		</usn>
+		<name>
+		Abhishek 
+		</name>
+		<college>
+		Vidyavardhaka College of Engineering
+		</college>
+		<branch>
+		Computer Science
+		</branch>
+		<year>
+		2016
+		</year>
+		<email>
+		abhishek@xyz.com
+		</email>
+	</student>
+	<student>
+		<usn>
+		4VV16CS014
+		</usn>
+		<name>
+		Ashwin
+		</name>
+		<college>
+		Vidyavardhaka College of Engineering
+		</college>
+		<branch>
+		Computer Science
+		</branch>
+		<year>
+		2016
+		</year>
+		<email>
+		ashwin@xyz.com
+		</email>
+	</student>
+</students>
