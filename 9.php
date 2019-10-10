@@ -78,7 +78,7 @@ foreach($states1 as $state){
 
 foreach($statesArray as $element => $value) {
 
-	print("\n".$value." is the element".$element);
+	print("<br>".$value." is the element".$element);
 
 }
 
