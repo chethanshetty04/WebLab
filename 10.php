@@ -32,7 +32,7 @@ echo"<th>USN</th><th>NAME</th><th>SEM</th></tr>";
 if($result->num_rows>0)
 {
 	while($row=$result->fetch_assoc()){
-		echo"<br>";
+		echo"<tr>";
 		echo"<td>".$row["usn"]."</td>";
 		echo"<td>".$row["name"]."</td>";
 		echo"<td>".$row["sem"]."</td></tr>";
@@ -82,7 +82,7 @@ for($i=0;$i<$n;$i++) {
 	echo"<td>".$c[$i]."</td>";
 	echo"<td>".$d[$i]."</td></tr>";
 }
-echo"<table>";
+echo"</table>";
 $conn->close();
 ?>
 </body>
